@@ -4,7 +4,7 @@ This repository contains code for a Speech Emotion Recognition (SER) model capab
     
 To clone my repository:
 ```
-https://github.com/Mainakcris7/speech_emotion_recognition_with_tess_ravdess.git
+git clone https://github.com/Mainakcris7/speech_emotion_recognition_with_tess_ravdess.git
 ```
 
 To execute the streamlit app:
